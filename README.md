@@ -1,4 +1,4 @@
-# Extract-0: Specialized Document Information Extraction Model
+76# Extract-0: Specialized Document Information Extraction Model
 
 Extract-0 is a 7-billion parameter language model specifically optimized for document information extraction. Through targeted optimization using supervised fine-tuning and reinforcement learning, it achieves superior performance compared to models with orders of magnitude more parameters.
 
